@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there I'm VigneshwaarG👋
+
+[![Holopin Badge Board](https://holopin.io/badge-board/V6g1)](https://holopin.io/V6g1)
+
 
 <!--
 **V6g1/V6g1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
