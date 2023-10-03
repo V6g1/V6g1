@@ -1,4 +1,4 @@
-### Hi there I'm VigneshwaarG👋 ♨️
+### Hi there I'm VigneshwaarG👋 
 
 
 Hi, I'm VIGNESHWAAR G, a Full Stack Developer with a passion for solving complex problems. I have experience in a wide range of programming languages, tools, and technologies, including JavaScript, Java, Microservices, Node.js, MySQL, MongoDB, GraphQL, Express.js, React.js, Bootstrap, HTML, and CSS.
