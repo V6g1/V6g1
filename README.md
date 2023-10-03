@@ -1,6 +1,7 @@
 ### Hi there I'm VigneshwaarG👋
 
 [![Holopin Badge Board](https://holopin.io/badge-board/V6g1)](https://holopin.io/V6g1)
+[![An image of @v6g1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/v6g1)](https://holopin.io/@v6g1)
 
 
 <!--
