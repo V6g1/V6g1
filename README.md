@@ -1,6 +1,10 @@
-### Hi there I'm VigneshwaarG👋
+### Hi there I'm VigneshwaarG👋 ♨️
 
-[![Holopin Badge Board](https://holopin.io/badge-board/V6g1)](https://holopin.io/V6g1)
+
+Hi, I'm VIGNESHWAAR G, a Full Stack Developer with a passion for solving complex problems. I have experience in a wide range of programming languages, tools, and technologies, including JavaScript, Java, Microservices, Node.js, MySQL, MongoDB, GraphQL, Express.js, React.js, Bootstrap, HTML, and CSS.
+
+
+
 [![An image of @v6g1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/v6g1)](https://holopin.io/@v6g1)
 
 
@@ -8,7 +12,7 @@
 **V6g1/V6g1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+[![Holopin Badge Board](https://holopin.io/badge-board/V6g1)](https://holopin.io/V6g1)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
