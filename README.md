@@ -4,7 +4,7 @@
 Hi, I'm VIGNESHWAAR G, a Full Stack Developer with a passion for solving complex problems. I have experience in a wide range of programming languages, tools, and technologies, including JavaScript, Java, Microservices, Node.js, MySQL, MongoDB, GraphQL, Express.js, React.js, Bootstrap, HTML, and CSS.
 
 
-
+Awards
 [![An image of @v6g1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/v6g1)](https://holopin.io/@v6g1)
 
 
